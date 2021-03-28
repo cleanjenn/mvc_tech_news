@@ -1,0 +1,9 @@
+### macOS ###
+# General
+node_modules
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Node ###
+npm-debug.log*
